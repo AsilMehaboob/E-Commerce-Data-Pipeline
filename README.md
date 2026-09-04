@@ -1,4 +1,4 @@
-# E-Commerce Data Engineering Platform
+# E-Commerce Data Pipeline
 
 An end-to-end e-commerce data engineering pipeline built with Databricks, PySpark, and Delta Lake using the Brazilian E-Commerce Public Dataset by Olist.
 
